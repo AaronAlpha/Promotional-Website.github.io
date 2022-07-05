@@ -13,7 +13,7 @@ I am going to promote the - my favorite - subject: Math
 
 
 Author Bio:
-- [x] Indian ethnicity
+- [ ] Indian ethnicity
 - [x] Born in gulf(Doha, Qatar)
 - [x] 16 years lived in Dubai, UAE(2006 - 2022)
 - [x] Loves Motorsports(F1, NASCAR, Indycar, and rallyng in general)
