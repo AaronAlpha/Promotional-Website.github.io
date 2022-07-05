@@ -25,9 +25,11 @@ Author Bio:
 - [x] Loves complicated/complex/very hard problems, which percieved hard by others
 - [x] Loves his academic work(especially: Maths, Computer Science)
 - [x] Favorite topics: {Math: Calculus}, {Math: Trignometry}, {Math: Logs and Exponents}, {CS: Computer Architecture(Von Neuman)}, {CS: Programming(Python)}, {CS: Python(Classes)}
+- [x] Aiming to be a DATA SCIENTIST!
 - [x] Loves color(s): (Royal)Purple, (Crimson and Blood)Red, (Christmas)Green, (Royal)Blue, Gold, Orange
 - [x] Favorite Season of the year: Christmas
 - [x] Favorite Country: Switzerland
 - [x] Love the winter
 - [x] Love anime
 - [x] Love Pizza, Chicken Sandwichs, Cake and Ice cream
+- [x] Love old Warships and Warplanes
