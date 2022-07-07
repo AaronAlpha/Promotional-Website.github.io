@@ -1,7 +1,7 @@
 # Promotional-Website.github.io
 Promotional Web
 
-I am going to promote the - my favorite - subject: Math
+I am going to promote my dream job: Data Scientist
 
 
 
