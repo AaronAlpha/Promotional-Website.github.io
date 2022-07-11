@@ -8,4 +8,4 @@ Promotional Web Checklist:
 - [x] Used viewport
 
 
- - [x] Note: Check on sir about flex box aside use
+ - [ ] Note: Check on sir about flex box aside use
