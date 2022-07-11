@@ -5,4 +5,4 @@ Promotional Web Checklist:
 - [ ] Used Flex Box
 - [ ] Used subscript and superscript
 - [x] Used Images
-- [ ] Used viewport
+- [x] Used viewport
